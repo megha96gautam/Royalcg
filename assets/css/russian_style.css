@@ -1,0 +1,14 @@
+.sidebar-right .room-price {
+    padding: 8px 10px 6px !important;
+}
+.social-links.prodect-social {
+    margin-top: 25px;
+    text-align: center;
+
+}
+    @media only screen and (max-width: 575px){
+	.list_mainTab li {
+	    width: 100% !important;
+	}
+
+	}

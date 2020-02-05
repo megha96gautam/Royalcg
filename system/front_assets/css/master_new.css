@@ -1,0 +1,93 @@
+section{overflow-x:hidden;}
+body{overflow:auto !important;}
+.f_middle ul li a{color:#fff;padding:10px 12px;display:block;font-size:14px;letter-spacing:1.2px;font-weight:600;font-family:'Josefin Sans', sans-serif;}
+.slide-pro img{width:100%;}
+.my-client-slider .item{padding:5px;text-align:center;}
+.my-client-slider{position:relative;padding:50px 0;background:#000;width:100%;display:block;overflow:hidden;}
+.my-client-slider .owl-buttons{position:absolute;top:-50px;right:0;}
+.my-client-slider .owl-prev, .my-client-slider .owl-next{background:transparent !important;position:absolute;border:1px solid #fff;border-radius:0 !important;padding:3px 13px !importan;t}
+.my-client-slider .owl-prev .fa, .my-client-slider .owl-next .fa{color:#fff;font-size:30px}
+.my-client-slider .owl-prev{right:42px;}
+.my-client-slider .owl-next{right:0px;}
+.my-client-slider .item img{opacity:1;width:100%;}
+.slide-pro{position:relative;}
+.flag-logo{position:absolute;top:5px;left:5px;}
+.pro-brands h2 img{width:100%;max-width:25px;vertical-align:top;}
+.pro-brands h2{text-align:left;padding:10px 8px;border:1px solid #d79753;color:#fff;margin:5px 0 0 0;font-size:0 !important;line-height:0 !important;}
+.pro-brands h2 span a{float:right;text-transform:uppercase;font-weight:bold;font-size:12px;padding:0px 0;color:#d79753;text-decoration:none;line-height:35px;font-family:'Josefin Sans', sans-serif;}
+.pro-brands h2 span a:hover{text-decoration:none;}
+.my-client-slider .owl-theme .owl-controls .owl-page span{background:#d79753;}
+.f_middle ul li{list-style:none;padding:0;margin:0;display:inline-block;width:24%;}
+.main-head-pro h1{text-align:center;display:inline-block;margin:0 auto 60px;color:#fff;font-weight:bold;font-size:36px;position:relative;font-family:'Josefin Sans', sans-serif;}
+.main-head-pro{text-align:center;}
+.main-head-pro h1:after{height:2px;width:80px;background:#fff;position:absolute;top:20px;left:-100px;content:'';}
+.main-head-pro h1:before{height:2px;width:80px;background:#fff;position:absolute;top:20px;right:-100px;content:'';}
+.f_middle ul li a:hover{text-decoration:none;color:#d79753;}
+.f_middle ul{padding:0;margin:0;text-align:left;}
+section.main-link-div{padding:40px 0;}
+.main-link-div{background:url(../images/per-bannar.jpg);background-attachment:fixed;background-size:cover;background-repeat:no-repeat;}
+.pro-brands h2 span{width:80%;overflow:hidden;display:block;float:right;height:27px;text-overflow:ellipsis;margin:-3px 0;}
+@media(min-width:320px) and (max-width:359px){.pro-brands{width:100%;float:left;}
+.my-client-slider .owl-pagination{display:none;}
+.main-head-pro h1{margin:0 auto 20px;}
+.f_middle ul li a{padding:5px 10px;font-size:13px;}
+.f_middle ul li{width:100%;}
+}
+@media(min-width:360px) and (max-width:383px){.pro-brands{width:100%;float:left;}
+.my-client-slider .owl-pagination{display:none;}
+.main-head-pro h1{margin:0 auto 20px;}
+.f_middle ul li a{padding:5px 10px;font-size:13px;}
+.f_middle ul li{width:100%;}
+}
+@media(min-width:384px) and (max-width:478px){.pro-brands{width:100%;float:left;}
+.my-client-slider .owl-pagination{display:none;}
+.main-head-pro h1{margin:0 auto 20px;}
+.f_middle ul li a{padding:5px 10px;font-size:13px;}
+.f_middle ul li{width:100%;}
+}
+@media(min-width:479px) and (max-width:567px){.pro-brands{width:100%;float:left;}
+.pro-brands h2 span a{font-size:13px;padding-right:3px;}
+.main-head-pro h1{margin:0 auto 20px;}
+.f_middle ul li a{padding:3px 10px;font-size:13px;}
+.f_middle ul li{float:left;width:50%;}
+.my-client-slider .container{padding:0px 6px;}
+}
+@media(min-width:568px) and (max-width:590px){.pro-brands{width:100%;float:left;}
+.pro-brands h2 span a{font-size:12px;}
+.main-head-pro h1{margin:0 auto 20px;}
+.f_middle ul li a{padding:3px 10px;font-size:13px;}
+.f_middle ul li{width:50%;float:left;}
+.my-client-slider .container{padding:0px 6px;}
+.pro-brands h2{line-height:0;font-size:0;}
+}
+@media(min-width:591px) and (max-width:602px){.pro-brands{width:100%;float:left;}
+.pro-brands h2 span a{font-size:18px;}
+.main-head-pro h1{margin:0 auto 20px;}
+.f_middle ul li a{padding:3px 10px;font-size:13px;}
+.f_middle ul li{width:50%;float:left;}
+.my-client-slider .container{padding:0px 6px;}
+}
+@media(min-width:603px) and (max-width:700px){.pro-brands{width:100%;float:left;}
+.main-head-pro h1{margin:0 auto 35px;}
+.f_middle ul li a{padding:7px 10px;font-size:13px;}
+.f_middle ul li{width:33%;float:left;}
+.my-client-slider .container{padding:0px 6px;}
+}
+@media (min-width:701px) and (max-width:767px){.pro-brands{width:100%;float:left;}
+.main-head-pro h1{margin:0 auto 20px;}
+.f_middle ul li a{padding:7px 10px;font-size:13px;}
+.f_middle ul li{width:33%;float:left;}
+.my-client-slider .container{padding:0px 6px;}
+.pro-brands h2{font-size:0px !important;}
+.main_banner{height:100% !important;}
+}
+@media(min-width:768px) and (max-width:955px){.f_middle ul li{width:33%;float:left;}
+.f_middle ul li a{padding:7px 10px;font-size:13px;}
+.main_banner{height:100% !important;}
+.header{height:100% !important;}
+}
+@media(min-width:956px) and (max-width:991px){.f_middle ul li{width:33%;float:left;}
+.f_middle ul li a{padding:7px 10px;font-size:13px;}
+}
+@media screen and (max-width:1199px){body{overflow-x:hidden !important;}
+}

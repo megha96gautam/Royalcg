@@ -1,0 +1,229 @@
+.wt-box {
+    float: right;
+}
+.wt-media {
+    float: left;
+}
+.row.welView {
+    direction: rtl;
+}
+h2.hd_best {
+    text-align: right;
+}
+.acm-txt {
+    float: right;
+    text-align: right;
+}
+.fv-sub {
+    float: left;
+    text-align: right;
+    width: 100%;
+}
+section.firm-value.wow.fadeInDown {
+    direction: rtl;
+}
+a.navbar-brand.form-logo {
+    float: right;
+}
+.navbar-collapse ul.navbar-nav.ml-auto {
+    float: left !important;
+}
+nav.navbar.navbar-expand-sm.bg-dark.navbar-dark {
+    direction: rtl !important;
+}
+.box_mainTeam.wow.fadeInDown {
+    direction: rtl;
+}
+.footer-middle.wow.fadeInDown {
+    direction: rtl;
+}
+.footer-bottom p {
+    text-align: right !important;
+    padding-top: 25px;
+}
+section.box_fm.wow.fadeInDown {
+    direction: rtl;
+}
+.msg .col-md-4 {
+    float: right;
+    text-align: right;
+}
+.abt_main .col-md-6 {
+    float: right;
+    text-align: right;
+}
+.abt_main .col-md-6 h2 {
+    margin-top: 0 !important;
+}
+.des_box {
+    direction: rtl;
+}
+section.box_ben.mani_ben {
+    direction: rtl;
+    text-align: right;
+}
+.mkdf-iwt-content-holder {
+    padding-left: 0;
+    padding-right: 50px;
+}
+
+.mkdf-iwt-icon-holder {
+    float: right !important;
+}
+.bx_right h4 {
+    text-align: right;
+}
+.carousel-inner .col-xs-12.col-sm-6.col-md-4 {
+    float: right !important;
+}
+.footer-middle .col-lg-3.col-md-3 {
+    text-align: right;
+}
+.footer-middle .col-lg-4.col-md-4{
+	text-align: right;
+}
+.footer-middle .footer-address p .fa {
+    left: auto;
+    right: 0;
+}
+.footer-middle .footer-address p {
+	padding-left: 0 !important;
+	padding-right: 45px !important;
+}
+.container.co_bac_con {
+	text-align: right;
+	direction: rtl;
+}
+#contatti {
+	direction: rtl;
+	text-align: right;
+}
+#demo .carousel-caption {
+    direction: rtl;
+}
+#demo .carousel-caption .form-group {
+    width: calc(100% - 122px);
+}
+#demo .carousel-caption .search-form button a {
+	left: 0;
+	right: auto;
+}
+#demo .carousel-caption ul li a .fa {
+	padding-left: 5px;
+	padding-right: 0px;
+}
+.time-main-sec {
+    direction: rtl;
+}
+.time-main-sec .time-inner .watch-img img {
+    margin: 0px 0px 0px 5px;
+}
+.booking-left.wow.fadeInLeft {
+    direction: rtl;
+    text-align: right;
+}
+.booking-main-sec .nav-tabs .nav-link img {
+	float: left !important;
+}
+ul.nav.nav-tabs.list_mainTab li a .fa {
+    float: left !important;
+}
+.booking-right-cont ul li span.right-s {
+    float: left;
+}
+.booking-right-cont ul li span.left-s {
+    float: right;
+}
+.booking-right-img-cont {
+    text-align: right;
+}
+div#targetrecommended {
+    direction: rtl;
+}
+.recommended-main-sec .destinations .details {
+    text-align: right;
+}
+.recommended-main-sec .destinations article .gradient-button {
+	left: 15px;
+	right: auto;
+}
+.recommended-main-sec .destinations article h4 {
+   padding-right: 0px !important;
+}
+.cruise-main-sec.jet-rent {
+    direction: rtl;
+}
+.cruise-main-sec .tab-content .cruise6 {
+    width: 6.4% !important;
+}
+.cruise-sec.jet-rent-img .col-xs-4 {
+    float: right;
+}
+.map-sec{
+	direction: rtl;
+}
+.cruise-main-sec.cruise-rent {
+    direction: rtl;
+}
+.news-letter .news-form button {
+	left: 0;	
+	right: auto;
+	transform: rotate(180deg);
+}
+.news-letter {
+    direction: rtl;
+}
+.site-breadcrumb {
+    text-align: right !important;
+}
+.main-section {
+    direction: rtl;
+}
+section.page-section {
+    direction: rtl !important;
+}
+.all-rating-right .col-5 {
+    text-align: right;
+}
+.all-rating-left {
+    text-align: right;
+}
+.single-page-detail {
+    text-align: right;
+}
+.sidebar-right {
+    text-align: right;
+}
+form#personal-info {
+    float: inherit !important;
+}
+.book-n form#personal-info {
+    margin-right: 1px !important;
+}
+.page-section div#myCarousel .carousel-inner{
+    display: block !important;
+}
+.cruise-main-sec .tab-content .cruise3 .fa {
+    left: auto;
+    right: 10px;
+}
+.cruise-main-sec form.cruise-form .cruise3 input {
+    padding: 10px 80px 10px 15px;
+    text-align: left;
+}
+span.left-s .fa {
+    margin-right: -2px !important;
+}
+button#submit-p {
+    padding-left: 0;
+}
+
+@media screen and (max-width: 767px){
+
+.top-menu .navbar .navbar-toggler.collapsed {
+    float: left !important;
+}
+div#collapsibleNavbar ul.navbar-nav.ml-auto {
+    left: 0;
+    position: absolute;
+}
